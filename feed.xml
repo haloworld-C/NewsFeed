@@ -6,7 +6,21 @@
 <atom:link href="https://raw.githubusercontent.com/haloworld-C/NewFeed/main/feed.xml" rel="self" type="application/rss+xml"/>
 <description>个人 AI 推送：每日重要新闻 + 每周 Great Books 深度解读。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 07 Nov 2026 09:40:09 +0800</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 09:37:00 +0800</lastBuildDate>
+
+<item>
++      <title>Great Books｜《埃涅阿斯纪》：失败者如何成为帝国的祖先</title>
++      <link>https://github.com/haloworld-C/NewsFeed/blob/main/great-books/2026-11-08-aeneid-defeat-founding.md</link>
++      <guid isPermaLink="true">https://github.com/haloworld-C/NewsFeed/blob/main/great-books/2026-11-08-aeneid-defeat-founding.md</guid>
++      <pubDate>Sun, 08 Nov 2026 01:00:00 GMT</pubDate>
++      <description><![CDATA[维吉尔没有从胜利者写起，而从特洛伊废墟中的流亡者写起。本期以《埃涅阿斯纪》为核心，讨论埃涅阿斯如何把个人幸福让位于尚未出生的共同体，并借狄多、图尔努斯与最后一剑，审视统一、文明使命和帝国秩序的代价。文章还将它与《史记》对读，比较罗马以目的和天命、中国以共同历史组织“统一”的不同方式，并说明它如何在荷马与但丁之间，把英雄史诗转化为文明的政治神学。]]></description>
++      <category>Great Books</category>
++      <category>文学</category>
++      <category>文明史</category>
++      <category>埃涅阿斯纪</category>
++      <category>罗马</category>
++      <category>共同体</category>
++    </item>
 
 
 <item>

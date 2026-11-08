@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Hal · 个人 AI 推送</title>
-<link>https://github.com/haloworld-C/NewFeed</link>
-<atom:link href="https://raw.githubusercontent.com/haloworld-C/NewFeed/main/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://github.com/haloworld-C/NewsFeed</link>
+<atom:link href="https://raw.githubusercontent.com/haloworld-C/NewsFeed/main/feed.xml" rel="self" type="application/rss+xml"/>
 <description>个人 AI 推送：每日重要新闻 + 每周 Great Books 深度解读。</description>
 <language>zh-cn</language>
 <lastBuildDate>Sun, 08 Nov 2026 09:37:00 +0800</lastBuildDate>

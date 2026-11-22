@@ -6,7 +6,22 @@
 <atom:link href="https://raw.githubusercontent.com/haloworld-C/NewsFeed/main/feed.xml" rel="self" type="application/rss+xml"/>
 <description>个人 AI 推送：每日重要新闻 + 每周 Great Books 深度解读。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 21 Nov 2026 09:39:04 +0800</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 09:00:00 +0800</lastBuildDate>
+
+<item>
+<title>Great Books｜《安提戈涅》：当正义分裂成两种义务</title>
+<link>https://github.com/haloworld-C/NewsFeed/blob/main/great-books/2026-11-22-antigone-divided-justice.md</link>
+<guid isPermaLink="true">https://github.com/haloworld-C/NewsFeed/blob/main/great-books/2026-11-22-antigone-divided-justice.md</guid>
+<pubDate>Sun, 22 Nov 2026 09:00:00 +0800</pubDate>
+<category>Great Books</category>
+<category>文学</category>
+<category>政治思想</category>
+<category>安提戈涅</category>
+<category>法律</category>
+<category>悲剧</category>
+<description><![CDATA[一场内战之后，克瑞翁以国家法律禁止埋葬叛国者，安提戈涅则以亲属义务与诸神不成文的律法公开反抗。本期不把作品简化成个人良知战胜暴君，而是追问两种各有正当性的义务如何走向互相毁灭：城邦秩序何时蜕变为权力自保，原则坚持又何时变成拒绝其他价值。文章联系黑格尔的悲剧理论，并与《离骚》对读，讨论语言、法律、家庭、性别与国家权威，以及制度怎样让冲突不必等到死亡之后才获得承认。]]></description>
+</item>
+
 
 <item>
 <title>Great Books｜《离骚》：当政治秩序拒绝忠诚者，诗如何保存人格</title>
